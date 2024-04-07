@@ -1,0 +1,14 @@
+{
+  "name": "ntokozo-kubheka-625-validate-a-south-african-id-number-javascript",
+  "version": "1.0.0",
+  "description": "Validate a South African ID number (625) For raw project instructions see: http://syllabus.africacode.net/language-agnostic/validate-id-number/",
+  "main": "validate_sa_id.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
